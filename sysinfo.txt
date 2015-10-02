@@ -1,0 +1,121 @@
+System:
+  OS: Windows 8  (6.2.9200) 64bit
+  CPU: Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz, count: 8
+  Physical RAM: 8150 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: AMD Radeon HD 6450 (Microsoft Corporation - WDDM v1.20)
+  VendorID: 1002
+  Driver: aticfx32.dll 9.18.10.1129
+  VRAM: 1008 (via DXGI)
+
+OpenGL:
+  Version: 1.1.0
+  Vendor: Microsoft Corporation
+  Renderer: GDI Generic
+  VRAM: 1008 (via DXGI)
+  Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+
+User locale: pt-BR
+System locale: pt-BR
+
+Running processes:
+MotoHelperAgent.exe (8796)
+    path: C:\Program Files (x86)\Motorola Mobility\Motorola Device Manager\MotoHelperAgent.exe
+    company:  Motorola Mobility LLC
+    product:  MotoHelper
+    filedesc: MotoHelperAgent
+    filever:  14.8.6.1
+    prodver:  14.8.6.1
+ccSvcHst.exe (5288)
+    path: C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.4013.4013.105\Bin\ccSvcHst.exe
+    company:  Symantec Corporation
+    product:  Symantec Security Technologies
+    filedesc: Symantec Service Framework
+    filever:  12.3.4.4
+    prodver:  12.3.4.4
+AAM Updates Notifier.exe (1168)
+    path: C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+    company:  Adobe Systems Incorporated
+    product:  AAM Updates Notifier Application
+    filedesc: AAM Updates Notifier Application
+    filever:  1.0.175.0
+    prodver:  1.0.175.0
+chrome.exe (8924)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+chrome.exe (4168)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+chrome.exe (8768)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+chrome.exe (8372)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+chrome.exe (8716)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+Unity.exe (9900)
+    path: C:\Program Files (x86)\Unity\Editor\Unity.exe
+    company:  Unity Technologies ApS
+    product:  Unity
+    filedesc: Unity Editor
+    filever:  4.6.2.61188
+    prodver:  4.6.2.61188
+chrome.exe (2968)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+chrome.exe (4896)
+    path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  44.0.2403.155
+    prodver:  44.0.2403.155
+MonoDevelop.exe (6180)
+    path: C:\Program Files (x86)\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+UnityBugReporter.exe (9140)
+    path: C:\Program Files (x86)\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.6.2.61188
+    prodver:  4.6.2.61188
+WerFault.exe (6800)
+    path: C:\Windows\SysWOW64\WerFault.exe
+    company:  Microsoft Corporation
+    product:  Sistema operacional Microsoft® Windows®
+    filedesc: Relatório de Problemas do Windows
+    filever:  6.2.9200.16659
+    prodver:  6.2.9200.16659
